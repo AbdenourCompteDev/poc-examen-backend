@@ -1,6 +1,6 @@
 # `PocExam`
 
-#### Abdenour BAHLOUR / SOFTEAM
+#### Abdenour BAHLOUL / SOFTEAM
 #### Intercontrat : 02/2023
 
 ## that application allows a student to :
